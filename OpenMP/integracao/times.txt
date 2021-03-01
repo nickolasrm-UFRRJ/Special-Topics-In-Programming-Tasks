@@ -1,0 +1,4 @@
+NORMAL: 4.232s
+OMP 6threads (Reduction): 0.907
+OMP 6threads +noif: 0.829s
+OMP 12threads +noif: 0.674s

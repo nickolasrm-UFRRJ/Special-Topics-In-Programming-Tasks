@@ -1,0 +1,4 @@
+REGULAR: 1m25
+OMP: 19.535s 
+NO-IF-IN-LOOP: not relevant
+POINTER-MATH: 17.934

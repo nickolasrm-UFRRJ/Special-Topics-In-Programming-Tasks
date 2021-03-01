@@ -1,0 +1,8 @@
+NORMAL: 15.358
+6threads for npZ = for npY: 5.543s
+6threads ptr = 4.228
+/*
+the best case is  to split the most inner loops into small
+operations or smaller loops for the corners, edges, sides, and the inner cube.
+This way the ifs inside the most inner ifs are can be taken off the code.
+*/

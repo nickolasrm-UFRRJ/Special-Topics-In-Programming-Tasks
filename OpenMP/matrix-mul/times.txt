@@ -1,0 +1,5 @@
+No relevant tests with less than 2048x2048 size
+Normal: 196.96
+Ptr: 162.92
+Omp: 33.404//6 threads 35.226//12 threads
+OmpPtr: 27.556s//6 threads
